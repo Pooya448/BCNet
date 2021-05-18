@@ -17,8 +17,6 @@ dependencies:
   - mkl-service=2.3.0
   - mkl_fft=1.2.0
   - mkl_random=1.1.1
-  - msys2-conda-epoch=20160418
-  - ninja=1.7.2
   - numpy=1.19.1
   - numpy-base=1.19.1
   - olefile=0.46
@@ -32,10 +30,7 @@ dependencies:
   - sqlite=3.33.0
   - tk=8.6.10
   - torchvision=0.7.0
-  - vc=14.1
-  - vs2015_runtime=14.16.27012
   - wheel=0.35.1
-  - wincertstore=0.2
   - xz=5.2.5
   - zlib=1.2.11
   - zstd=1.4.5
